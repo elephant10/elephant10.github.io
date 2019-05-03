@@ -21,7 +21,6 @@ body{
 
 #nav{
     font-family: 'Open Sans', arial;
-    z-index: 9999999;
 }
 
 #nav li{
@@ -71,7 +70,6 @@ body{
 #Poroshenko{
     background:#8d084b;  
 }
-
 
 li  {
     
