@@ -19,8 +19,11 @@ body{
 }
 
 #nav li{
-
-	float:left;
+    text-align: center;
+    display: inline-block;
+    width: 100px;
+    vertical-align: middle;
+	/*float:left;*/
     position:relative;
     list-style:none; 
     width:190px;
@@ -30,10 +33,11 @@ body{
     background: blue;
 }
 #nav  a{
+    text-align: center;
     color: yellow;
     text-decoration:none;
     display:block;
-    padding:35px;
+    
     
 }
 
